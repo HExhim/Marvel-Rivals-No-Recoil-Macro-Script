@@ -1,0 +1,5 @@
+lxml
+requests
+pymem
+pillow
+win32api
